@@ -69,4 +69,9 @@ public class TicketMachineTest
         assertNotEquals(Integer.valueOf(9), testTicketMachine.getTicketNumber());
     }
     
+
+   
 }
+
+
+
